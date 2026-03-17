@@ -1,4 +1,5 @@
 const URL_MAP = {
+  "||miniblox.*textures/spritesheet.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Texture-Pack-For-Eggwars/refs/heads/main/spritesheet_for_pvp2_1.png"
   };
 
 let rules = [];
