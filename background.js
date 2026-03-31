@@ -1,5 +1,5 @@
 const URL_MAP = {
-  "https://miniblox.io/textures/spritesheet.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Texture-Pack-For-Eggwars/refs/heads/main/Its_Starooo_200_Pack_.png",
+  "https://miniblox.io/textures/spritesheet.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Texture-Pack-For-Eggwars/refs/heads/main/Starooo_250_Subs_Special_Pack.png",
   "https://miniblox.io/assets/Miniblox-Regular-Lz-C8nWS.otf": "https://raw.githubusercontent.com/heythereu/Miniblox-Textures/main/assets/Miniblox-Regular-Lz-C8nWS.otf",
   "https://miniblox.io/textures/entity/chicken/chicken.png": "https://raw.githubusercontent.com/heythereu/Miniblox-Textures/main/entity/chicken.png",
   "https://miniblox.io/textures/entity/cow/cow.png": "https://raw.githubusercontent.com/heythereu/Miniblox-Textures/main/entity/cow.png",
